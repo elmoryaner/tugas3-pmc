@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643568274 source:c:\users\elmor\desktop\pmc\tugas3\tugas3.c
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+
